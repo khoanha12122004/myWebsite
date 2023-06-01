@@ -6,9 +6,9 @@ $(document).ready(function(){
 });
 //slide show
 var hinh = [
-    '/img/banner 1.webp',
-    '/img/banner2.jpg',
-    '/img/banner3.png',
+    'img/banner 1.webp',
+    'img/banner2.jpg',
+    'img/banner3.png',
 ];
 var index = 0;
 function prev(){
